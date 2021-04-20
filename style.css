@@ -1,0 +1,41 @@
+body{
+    background-size:color;
+}
+
+.heading{
+    width:100%;
+    margin:0px;
+    font-size:30px;
+}
+
+.note{
+    font-size:16px;
+    color:black;
+    white-space:normal;
+}
+
+.img{
+    width:200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_volume{
+    float:right;
+}
+.btn-danger{
+    font-size:23px;
+    margin:15px;
+}
+canvas{
+    border-radius:20px;
+    border:2px solid blue;
+}
+
+#play{
+    width:100px;
+    font-size:20px;
+}
